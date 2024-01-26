@@ -1,0 +1,60 @@
+DocType,DocType
+DocField,DocField
+DocPerm,DocPerm
+User,Benutzer
+Workspace,Arbeitsbereich
+submit,buchen
+cancel,stornieren
+amend,berichtigen
+submitted,gebucht
+cancelled,storniert
+amended,berichtigt
+Draft,Entwurf
+Naming Series,Nummernkreis
+Series,Nummernkreis
+Autoname,Benennungsschema
+Customer,Kunde
+Supplier,Lieferant
+Item,Artikel
+Warehouse,Lager
+Company,Unternehmen
+Company Name,Firma
+Chart of Accounts,Kontenplan
+Sales Invoice,Ausgangsrechnung
+Purchase Invoice,Eingangsrechnung
+Purchase Receipt,Eingangsbeleg
+Sales Order,Kundenauftrag
+Purchase Order,Lieferantenauftrag
+Supplier Quotation,Lieferantenangebot
+Quotation,Angebot
+Delivery Note,Lieferschein
+Actual,Ist
+Expected,Soll
+Stock Ledger Entry,Lagerbuchung
+Stock Entry,Lagerbewegung
+Leaves,Abwesenheiten
+Leave Type,Abwesenheitsart 
+Leave Application,Abwesenheitsantrag
+Leave Allocation,Abwesenheitskontingent
+Attendance,Anwesenheit
+Holiday,Arbeitsfreier Tag
+Holiday List,Liste der arbeitsfreien Tage
+Deferred Accounting,Rechnungsabgrenzung
+Lead,Interessent
+Opportunity,Verkaufschance
+Asset,Sachanlage
+Asset Item,Sachanlage-Artikel
+Asset Capitalization,Anlagenaktivierung
+Asset Category,Anlagenkategorie
+Capital Work In Progress,Anlagen im Bau
+Workstation,Arbeitsplatz
+Accounting Entry,Buchung
+Accounts Receivable,Debitoren
+Accounts Payable,Kreditoren
+Voucher,Beleg
+Rate,Einzelpreis
+Quantity,Menge
+Qty,Menge
+Amount,Betrag
+BOM,Stückliste
+Batch,Charge
