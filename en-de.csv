@@ -1,90 +1,96 @@
-DocType,DocType
-DocField,DocField
-DocPerm,DocPerm
-User,Benutzer
-Workspace,Arbeitsbereich
-submit,buchen
-cancel,stornieren
-amend,berichtigen
-submitted,gebucht
-cancelled,storniert
-amended,berichtigt
-Submission,Buchung
-Cancellation,Stornierung
-Amendment,Berichtigung
-Draft,Entwurf
-Naming Series,Nummernkreis
-Series,Nummernkreis
-Autoname,Benennungsschema
-Customer,Kunde
-Supplier,Lieferant
-Item,Artikel
-Warehouse,Lager
-Company,Unternehmen
-Company Name,Firma
-Chart of Accounts,Kontenplan
-Sales Invoice,Ausgangsrechnung
-Purchase Invoice,Eingangsrechnung
-Purchase Receipt,Eingangsbeleg
-Sales Order,Kundenauftrag
-Purchase Order,Lieferantenauftrag
-Supplier Quotation,Lieferantenangebot
-Quotation,Angebot
-Delivery Note,Lieferschein
+Accounting entries,Buchungen
+Accounting Entry,Buchung
+Accounts Payable,Verbindlichkeiten
+Accounts Receivable,Forderungen
 Actual,Ist
-Expected,Soll
-Stock Ledger Entry,Lagerbuchung
-Stock Entry,Lagerbewegung
-Leave,Abwesenheit
-Leaves,Abwesenheiten
-Leave Type,Abwesenheitsart 
-Leave Application,Abwesenheitsantrag
-Leave Allocation,Abwesenheitskontingent
-Leave Policy,Abwesenheitsrichtlinie
-Leave Period,Abwesenheitsperiode
-Leave Encashment,Auszahlung von Urlaub
-Encashable Leaves,auszahlbare Abwesenheiten
-Attendance,Anwesenheit
-Holiday,Arbeitsfreier Tag
-Holiday List,Liste der arbeitsfreien Tage
-Deferred Accounting,Rechnungsabgrenzung
-Lead,Interessent
-Opportunity,Verkaufschance
-Asset,Sachanlage
-Asset Item,Sachanlage-Artikel
+amend,berichtigen
+amended,berichtigt
+Amendment,Berichtigung
+Amount,Betrag
 Asset Capitalization,Anlagenaktivierung
 Asset Category,Anlagenkategorie
-Capital Work In Progress,Anlagen im Bau
-Workstation,Arbeitsplatz
-Accounting Entry,Buchung
-Accounts Receivable,Forderungen
-Accounts Payable,Verbindlichkeiten
-Voucher,Beleg
-Rate,Einzelpreis
-Quantity,Menge
-Qty,Menge
-Amount,Betrag
-BOM,Stückliste
+Asset Item,Sachanlage-Artikel
+Asset,Sachanlage
+Attendance,Anwesenheit
+Autoname,Benennungsschema
 Batch,Charge
-Report Builder,Berichterstellungswerkzeug
-Report,Bericht
-Masters,Stammdaten
-Guarantee,Garantie
-Warranty,Gewährleistung
-Heads,Konten
-Earned Leaves,Verdiente Urlaubstage
-Job Applicant,Bewerber
-Loan Repayment,Darlehensrückzahlung
-Payable Account,Verbindlichkeitskonto
-Expense Claim,Spesenabrechnung
-Relieving Date,Austrittsdatum
+BOM,Stückliste
+cancel,stornieren
+Cancellation,Stornierung
+cancelled,storniert
+Capital Work In Progress,Anlagen im Bau
 Cash Account,Kassenkonto
-Salary Slip,Gehaltsabrechnung
-Exit Questionnaire,Austrittsfragebogen
-Payroll,Lohn- und Gehaltsabrechnung
-Fleet,Fuhrpark
-Job Requisition,Stellengesuch
-Job Opening,Stellenausschreibung
+Chart of Accounts,Kontenplan
+Company Name,Firma
+Company,Unternehmen
+Customer,Kunde
+Deferred Accounting,Rechnungsabgrenzung
+Delivery Note,Lieferschein
 Designation,Position
+DocField,DocField
+DocPerm,DocPerm
+DocType,DocType
+Draft,Entwurf
+Earned Leaves,Verdiente Urlaubstage
+Encashable Leaves,auszahlbare Abwesenheiten
+Exit Interview,Austrittsgespräch
+Exit Questionnaire,Austrittsfragebogen
+Expected,Soll
+Expense Approver,Spesengenehmiger
+Expense Claim,Spesenabrechnung
+Fleet,Fuhrpark
 Gratuity,Gratifikation
 Grievance,Beschwerde
+Guarantee,Garantie
+Heads,Konten
+Holiday List,Liste der arbeitsfreien Tage
+Holiday,Arbeitsfreier Tag
+Item,Artikel
+Job Applicant,Bewerber
+Job Opening,Stellenausschreibung
+Job Requisition,Stellengesuch
+Lead,Interessent
+Leave Allocation,Abwesenheitskontingent
+Leave Application,Abwesenheitsantrag
+Leave Encashment,Auszahlung von Urlaub
+Leave Period,Abwesenheitsperiode
+Leave Policy,Abwesenheitsrichtlinie
+Leave Type,Abwesenheitsart 
+Leave,Abwesenheit
+Leaves,Abwesenheiten
+Loan Repayment,Darlehensrückzahlung
+Masters,Stammdaten
+Naming Series,Nummernkreis
+Opportunity,Verkaufschance
+Payable Account,Verbindlichkeitskonto
+Payroll,Lohn- und Gehaltsabrechnung
+Pick List,Pickliste
+Purchase Invoice,Eingangsrechnung
+Purchase Order,Lieferantenauftrag
+Purchase Receipt,Eingangsbeleg
+Qty,Menge
+Quantity,Menge
+Quotation,Angebot
+Rate,Einzelpreis
+Relieving Date,Austrittsdatum
+Report Builder,Berichterstellungswerkzeug
+Report,Bericht
+Salary Slip,Gehaltsabrechnung
+Sales Invoice,Ausgangsrechnung
+Sales Order,Kundenauftrag
+Series,Nummernkreis
+Source Warehouse,Quelllager
+Stock Entry,Lagerbewegung
+Stock Ledger Entry,Lagerbuchung
+Submission,Buchung
+submit,buchen
+submitted,gebucht
+Supplier Quotation,Lieferantenangebot
+Supplier,Lieferant
+Target Warehouse,Ziellager
+User,Benutzer
+Voucher,Beleg
+Warehouse,Lager
+Warranty,Gewährleistung
+Workspace,Arbeitsbereich
+Workstation,Arbeitsplatz
