@@ -13,6 +13,7 @@ Asset Item,Sachanlage-Artikel
 Asset,Sachanlage
 Attendance,Anwesenheit
 Autoname,Benennungsschema
+Batch No,Chargennummer
 Batch,Charge
 BOM,Stückliste
 cancel,stornieren
@@ -38,17 +39,25 @@ Exit Questionnaire,Austrittsfragebogen
 Expected,Soll
 Expense Approver,Spesengenehmiger
 Expense Claim,Spesenabrechnung
+Finished Good,Fertigerzeugnis
 Fleet,Fuhrpark
+General Ledger,Hauptbuch
+GL Entry,Hauptbucheintrag
 Gratuity,Gratifikation
 Grievance,Beschwerde
 Guarantee,Garantie
 Heads,Konten
 Holiday List,Liste der arbeitsfreien Tage
 Holiday,Arbeitsfreier Tag
+If checked,Falls aktiviert
+If disabled,Falls deaktiviert
+If enabled,Falls aktiviert
+If unchecked,Falls deaktiviert
 Item,Artikel
 Job Applicant,Bewerber
 Job Opening,Stellenausschreibung
 Job Requisition,Stellengesuch
+Journal Entry,Journaleintrag
 Lead,Interessent
 Leave Allocation,Abwesenheitskontingent
 Leave Application,Abwesenheitsantrag
@@ -78,16 +87,22 @@ Report,Bericht
 Salary Slip,Gehaltsabrechnung
 Sales Invoice,Ausgangsrechnung
 Sales Order,Kundenauftrag
+Serial No,Seriennummer
+Serial,Seriennummer
 Series,Nummernkreis
 Source Warehouse,Quelllager
 Stock Entry,Lagerbewegung
 Stock Ledger Entry,Lagerbuchung
+Stock Ledger,Lagerbuch
+Stock UOM,Lager-ME
+Sub-assembly,Unterbaugruppe
 Submission,Buchung
 submit,buchen
 submitted,gebucht
 Supplier Quotation,Lieferantenangebot
 Supplier,Lieferant
 Target Warehouse,Ziellager
+UOM,ME
 User,Benutzer
 Voucher,Beleg
 Warehouse,Lager
