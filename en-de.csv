@@ -24,10 +24,14 @@ Cash Account,Kassenkonto
 Chart of Accounts,Kontenplan
 Company Name,Firma
 Company,Unternehmen
+Cost,Aufwand
+Costs,Kosten
 Customer,Kunde
 Deferred Accounting,Rechnungsabgrenzung
 Delivery Note,Lieferschein
+Deposit,Einzahlung
 Designation,Position
+Dispatch Address,Absendeadresse
 DocField,DocField
 DocPerm,DocPerm
 DocType,DocType
@@ -39,6 +43,7 @@ Exit Questionnaire,Austrittsfragebogen
 Expected,Soll
 Expense Approver,Spesengenehmiger
 Expense Claim,Spesenabrechnung
+Expense,Ausgabe
 Finished Good,Fertigerzeugnis
 Fleet,Fuhrpark
 General Ledger,Hauptbuch
@@ -53,6 +58,7 @@ If checked,Falls aktiviert
 If disabled,Falls deaktiviert
 If enabled,Falls aktiviert
 If unchecked,Falls deaktiviert
+Income,Einnahme
 Item,Artikel
 Job Applicant,Bewerber
 Job Opening,Stellenausschreibung
@@ -68,12 +74,17 @@ Leave Type,Abwesenheitsart
 Leave,Abwesenheit
 Leaves,Abwesenheiten
 Loan Repayment,Darlehensrückzahlung
+Loss,Verlust
 Masters,Stammdaten
 Naming Series,Nummernkreis
 Opportunity,Verkaufschance
 Payable Account,Verbindlichkeitskonto
+Payment,Auszahlung
 Payroll,Lohn- und Gehaltsabrechnung
+Performance,Leistung
 Pick List,Pickliste
+Price List Rate,Listenpreis
+Profit,Gewinn
 Purchase Invoice,Eingangsrechnung
 Purchase Order,Lieferantenauftrag
 Purchase Receipt,Eingangsbeleg
@@ -84,6 +95,7 @@ Rate,Einzelpreis
 Relieving Date,Austrittsdatum
 Report Builder,Berichterstellungswerkzeug
 Report,Bericht
+Revenue,Ertrag
 Salary Slip,Gehaltsabrechnung
 Sales Invoice,Ausgangsrechnung
 Sales Order,Kundenauftrag
