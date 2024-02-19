@@ -7,10 +7,10 @@ amend,berichtigen
 amended,berichtigt
 Amendment,Berichtigung
 Amount,Betrag
-Asset Capitalization,Anlagenaktivierung
-Asset Category,Anlagenkategorie
-Asset Item,Sachanlage-Artikel
-Asset,Sachanlage
+Asset Capitalization,Vermögensgegenstand-Aktivierung
+Asset Category,Vermögensgegenstand-Kategorie
+Asset Item,Vermögensgegenstand-Artikel
+Asset,Vermögensgegenstand
 Attendance,Anwesenheit
 Autoname,Benennungsschema
 Batch No,Chargennummer
@@ -77,7 +77,7 @@ Loan Repayment,Darlehensrückzahlung
 Loss,Verlust
 Masters,Stammdaten
 Naming Series,Nummernkreis
-Opportunity,Verkaufschance
+Opportunity,Chance
 Payable Account,Verbindlichkeitskonto
 Payment,Auszahlung
 Payroll,Lohn- und Gehaltsabrechnung
@@ -85,6 +85,7 @@ Performance,Leistung
 Pick List,Pickliste
 Price List Rate,Listenpreis
 Profit,Gewinn
+Prospect,Potenzieller Kunde
 Purchase Invoice,Eingangsrechnung
 Purchase Order,Lieferantenauftrag
 Purchase Receipt,Eingangsbeleg
