@@ -26,7 +26,10 @@ Company Name,Firma
 Company,Unternehmen
 Cost,Aufwand
 Costs,Kosten
+Cr,H
+Credit,Haben
 Customer,Kunde
+Debit,Soll
 Deferred Accounting,Rechnungsabgrenzung
 Delivery Note,Lieferschein
 Deposit,Einzahlung
@@ -35,6 +38,7 @@ Dispatch Address,Absendeadresse
 DocField,DocField
 DocPerm,DocPerm
 DocType,DocType
+Dr,S
 Draft,Entwurf
 Earned Leaves,Verdiente Urlaubstage
 Encashable Leaves,auszahlbare Abwesenheiten
