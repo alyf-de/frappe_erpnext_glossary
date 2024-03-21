@@ -80,10 +80,13 @@ Leaves,Abwesenheiten
 Loan Repayment,Darlehensrückzahlung
 Loss,Verlust
 Masters,Stammdaten
+Mode of Payment,Zahlungsweise
 Naming Series,Nummernkreis
 Opportunity,Chance
 Payable Account,Verbindlichkeitskonto
-Payment,Auszahlung
+Payment Entry,Zahlung
+Payment Type,Zahlungsart
+Payment,Zahlung
 Payroll,Lohn- und Gehaltsabrechnung
 Performance,Leistung
 Pick List,Pickliste
