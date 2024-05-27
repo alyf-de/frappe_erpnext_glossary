@@ -99,14 +99,18 @@ Purchase Receipt,Eingangsbeleg
 Qty,Menge
 Quantity,Menge
 Quotation,Angebot
+Quotation Item,Angebotsposition
 Rate,Einzelpreis
 Relieving Date,Austrittsdatum
 Report Builder,Berichterstellungswerkzeug
 Report,Bericht
 Revenue,Ertrag
 Salary Slip,Gehaltsabrechnung
+Sales Invoice Item,Ausgangsrechnungsposition
 Sales Invoice,Ausgangsrechnung
+Sales Order Item,Kundenauftragsposition
 Sales Order,Kundenauftrag
+Serial and Batch Bundle,Serien- und Chargenbündel
 Serial No,Seriennummer
 Serial,Seriennummer
 Series,Nummernkreis
