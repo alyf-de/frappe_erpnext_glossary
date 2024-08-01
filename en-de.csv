@@ -79,6 +79,7 @@ Leave,Abwesenheit
 Leaves,Abwesenheiten
 Loan Repayment,Darlehensrückzahlung
 Loss,Verlust
+Manual,Manuell
 Masters,Stammdaten
 Mode of Payment,Zahlungsweise
 Naming Series,Nummernkreis
@@ -94,12 +95,13 @@ Price List Rate,Listenpreis
 Profit,Gewinn
 Prospect,Potenzieller Kunde
 Purchase Invoice,Eingangsrechnung
-Purchase Order,Lieferantenauftrag
+Purchase Order Item,Bestellposition
+Purchase Order,Bestellung
 Purchase Receipt,Eingangsbeleg
 Qty,Menge
 Quantity,Menge
-Quotation,Angebot
 Quotation Item,Angebotsposition
+Quotation,Angebot
 Rate,Einzelpreis
 Relieving Date,Austrittsdatum
 Report Builder,Berichterstellungswerkzeug
@@ -108,8 +110,8 @@ Revenue,Ertrag
 Salary Slip,Gehaltsabrechnung
 Sales Invoice Item,Ausgangsrechnungsposition
 Sales Invoice,Ausgangsrechnung
-Sales Order Item,Kundenauftragsposition
-Sales Order,Kundenauftrag
+Sales Order Item,Auftragsposition
+Sales Order,Auftrag
 Serial and Batch Bundle,Serien- und Chargenbündel
 Serial No,Seriennummer
 Serial,Seriennummer
@@ -126,6 +128,7 @@ submitted,gebucht
 Supplier Quotation,Lieferantenangebot
 Supplier,Lieferant
 Target Warehouse,Ziellager
+Timesheet,Zeiterfassung
 UOM,ME
 User,Benutzer
 Voucher,Beleg
