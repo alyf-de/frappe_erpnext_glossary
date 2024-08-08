@@ -63,6 +63,7 @@ If disabled,Falls deaktiviert
 If enabled,Falls aktiviert
 If unchecked,Falls deaktiviert
 Income,Einnahme
+Inventory Dimension,Lagerbestandsdimension
 Item,Artikel
 Job Applicant,Bewerber
 Job Opening,Stellenausschreibung
@@ -92,17 +93,20 @@ Payroll,Lohn- und Gehaltsabrechnung
 Performance,Leistung
 Pick List,Pickliste
 Price List Rate,Listenpreis
+Process Deferred Accounting,Rechnungsabgrenzung verarbeiten
 Profit,Gewinn
 Prospect,Potenzieller Kunde
 Purchase Invoice,Eingangsrechnung
 Purchase Order Item,Bestellposition
 Purchase Order,Bestellung
 Purchase Receipt,Eingangsbeleg
+Putaway Rule,Einlagerungsregel
 Qty,Menge
 Quantity,Menge
 Quotation Item,Angebotsposition
 Quotation,Angebot
 Rate,Einzelpreis
+Rejected Warehouse,Ausschusslager
 Relieving Date,Austrittsdatum
 Report Builder,Berichterstellungswerkzeug
 Report,Bericht
@@ -127,7 +131,9 @@ submit,buchen
 submitted,gebucht
 Supplier Quotation,Lieferantenangebot
 Supplier,Lieferant
+Tab,Registerkarte
 Target Warehouse,Ziellager
+Tax Withholding,Quellensteuer
 Timesheet,Zeiterfassung
 UOM,ME
 User,Benutzer
