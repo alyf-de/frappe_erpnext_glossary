@@ -1,3 +1,4 @@
+Accepted Warehouse,Annahmelager
 Accounting entries,Buchungen
 Accounting Entry,Buchung
 Accounts Payable,Verbindlichkeiten
@@ -106,6 +107,7 @@ Quantity,Menge
 Quotation Item,Angebotsposition
 Quotation,Angebot
 Rate,Einzelpreis
+Rejected Warehouse,Ausschusslager
 Rejected Warehouse,Ausschusslager
 Relieving Date,Austrittsdatum
 Report Builder,Berichterstellungswerkzeug
