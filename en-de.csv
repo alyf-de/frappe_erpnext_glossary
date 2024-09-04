@@ -53,6 +53,7 @@ Finished Good,Fertigerzeugnis
 Fleet,Fuhrpark
 General Ledger,Hauptbuch
 GL Entry,Hauptbucheintrag
+Grand Total,Gesamtsumme
 Gratuity,Gratifikation
 Grievance,Beschwerde
 Guarantee,Garantie
@@ -85,6 +86,7 @@ Manual,Manuell
 Masters,Stammdaten
 Mode of Payment,Zahlungsweise
 Naming Series,Nummernkreis
+Net Total,Nettosumme
 Opportunity,Chance
 Payable Account,Verbindlichkeitskonto
 Payment Entry,Zahlung
@@ -137,6 +139,7 @@ Tab,Registerkarte
 Target Warehouse,Ziellager
 Tax Withholding,Quellensteuer
 Timesheet,Zeiterfassung
+Total,Summe
 UOM,ME
 User,Benutzer
 Voucher,Beleg
