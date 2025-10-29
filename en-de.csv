@@ -70,7 +70,7 @@ Item,Artikel
 Job Applicant,Bewerber
 Job Opening,Stellenausschreibung
 Job Requisition,Stellengesuch
-Journal Entry,Journaleintrag
+Journal Entry,Journalbuchung
 Lead,Interessent
 Leave Allocation,Abwesenheitskontingent
 Leave Application,Abwesenheitsantrag
@@ -96,6 +96,7 @@ Payroll,Lohn- und Gehaltsabrechnung
 Performance,Leistung
 Pick List,Pickliste
 Price List Rate,Listenpreis
+Print Format,Druckformat
 Process Deferred Accounting,Rechnungsabgrenzung verarbeiten
 Profit,Gewinn
 Prospect,Potenzieller Kunde
@@ -147,3 +148,4 @@ Warehouse,Lager
 Warranty,Gewährleistung
 Workspace,Arbeitsbereich
 Workstation,Arbeitsplatz
+SABB,S.u.Cb.
