@@ -1,151 +1,686 @@
+About Us Settings,"Einstellungen zu ""Über uns"""
 Accepted Warehouse,Annahmelager
+Access Log,Zugriffsprotokoll
+Access,Access
+Account Closing Balance,Kontoabschlusssaldo
+Account,Konto
+Accounting Dimension Filter,Filter für Buchhaltungsdimension
+Accounting Dimension,Buchhaltungsdimension
 Accounting entries,Buchungen
 Accounting Entry,Buchung
+Accounting Period,Abrechnungszeitraum
 Accounts Payable,Verbindlichkeiten
 Accounts Receivable,Forderungen
+Accounts Settings,Buchhaltungseinstellungen
+Activity Cost,Aktivitätskosten
+Activity Log,Aktivitätsprotokoll
+Activity Type,Aktivitätsart
 Actual,Ist
+Additional Salary,Zusätzliches Gehalt
+Address Template,Adressvorlage
+Address,Adresse
+Advance Payment Ledger Entry,Vorauszahlungsbucheintrag
 amend,berichtigen
 amended,berichtigt
 Amendment,Berichtigung
 Amount,Betrag
+API Request Log,API-Anfrage-Protokoll
+Appointment Booking Settings,Terminbuchungseinstellungen
+Appointment Letter Template,Termin Briefvorlage
+Appointment Letter,Ernennungsschreiben
+Appointment,Termin
+Appraisal Cycle,Beurteilungszyklus
+Appraisal Template,Beurteilungsvorlage
+Appraisal,Bewertung
+Asset Activity,Vermögensgegenstand Aktivität
 Asset Capitalization,Vermögensgegenstand-Aktivierung
 Asset Category,Vermögensgegenstand-Kategorie
+Asset Depreciation Schedule,Zeitplan für die Abschreibung von Vermögensgegenständen
 Asset Item,Vermögensgegenstand-Artikel
+Asset Maintenance Log,Wartungsprotokoll Vermögenswert
+Asset Maintenance Team,Wartungsteam Vermögenswert
+Asset Maintenance,Wartung Vermögenswert
+Asset Movement,Vermögensgegenstand-Bewegung
+Asset Repair,Vermögensgegenstand Reparatur
+Asset Shift Allocation,Sachanlagen-Schicht-Zuweisung
+Asset Shift Factor,Sachanlagen-Schichtfaktor
+Asset Value Adjustment,Anpassung Vermögenswert
 Asset,Vermögensgegenstand
+Assignment Rule,Zuweisungsregel
+Attendance Request,Anwesenheitsanfrage
 Attendance,Anwesenheit
+Audit Trail,Prüfprotokoll
+Authorization Control,Berechtigungskontrolle
+Authorization Rule,Autorisierungsregel
+Auto Email Report,Auto Email-Bericht
+Auto Repeat,Automatische Wiederholung
 Autoname,Benennungsschema
+Bank Account Subtype,Subtyp Bankkonto
+Bank Account Type,Bankkontotyp
+Bank Account,Bankkonto
+Bank Clearance,Bankfreigabe
+Bank Guarantee,Bankgarantie
+Bank Reconciliation Tool Beta,Bankabgleich Beta
+Bank Reconciliation Tool,Bankabstimmungswerkzeug
+Bank Statement Import,Kontoauszug Import
+Bank Transaction,Banktransaktion
+Bank,Bank
+Banking Settings,Bankeneinstellungen
 Batch No,Chargennummer
 Batch,Charge
+Bin,Lagerfach
+Bisect Accounting Statements,Buchhaltungsberichte teilen
+Bisect Nodes,Knoten halbieren
+Blanket Order,Blankoauftrag
+BOM Creator,Stücklistenersteller
+BOM Update Log,Stücklistenaktualisierungsprotokoll
+BOM Update Tool,Stücklisten-Update-Tool
 BOM,Stückliste
+Branch,Betrieb
+Brand,Marke
+Budget,Budget
+Bulk Salary Structure Assignment,Massenzuweisung von Gehaltsstrukturen
+Bulk Transaction Log Detail,Bulk Transaction Log Detail
+Bulk Transaction Log,Bulk Transaction Log
+Bulk Update,Massen-Update
+Business Letter Template,Geschäftsbriefvorlage
+Business Letter,Geschäftsbrief
+Business Trip Region,Dienstreise-Region
+Business Trip Settings,Dienstreise-Einstellungen
+Business Trip,Dienstreise
+Buying Settings,Einkaufs-Einstellungen
+Calendar View,Kalenderansicht
+Call Log,Anrufprotokoll
+Campaign,Kampagne
 cancel,stornieren
 Cancellation,Stornierung
 cancelled,storniert
 Capital Work In Progress,Anlagen im Bau
 Cash Account,Kassenkonto
+Cashier Closing,Kassenschluss
+Changelog Feed,Änderungsprotokoll-Feed
+Chart of Accounts Importer,Kontenplan Importeur
 Chart of Accounts,Kontenplan
+Cheque Print Template,Scheck Druckvorlage
+Client Script,Clientskript
+Code List,Code-Liste
+Color,Farbe
+Comment,Kommentar
+Common Code,Gemeinsamer Code
+Communication Medium,Kommunikationsmedium
+Communication,Kommunikation
 Company Name,Firma
 Company,Unternehmen
+Compensatory Leave Request,Ausgleichsurlaubsantrag
+Competitor,Konkurrent
+Connected App,Verbundene Anwendung
+Console Log,Konsolenprotokoll
+Contact Us Settings,Einstellungen zu „Kontaktieren Sie uns“
+Contact,Kontakt
+Contract Template,Vertragsvorlage
+Contract,Vertrag
+Cost Center Allocation,Kostenstellenzuordnung
+Cost Center,Kostenstelle
 Cost,Aufwand
 Costs,Kosten
+Country,Land
+Coupon Code,Gutscheincode
 Cr,H
 Credit,Haben
+CRM Settings,CRM-Einstellungen
+Currency Exchange Settings,Einstellungen Währungsumtausch
+Currency Exchange,Währungs-Umrechnung
+Currency,Währung
+Custom DocPerm,Benutzerdefinierte DocPerm
+Custom Field,Benutzerdefiniertes Feld
+Custom HTML Block,Benutzerdefinierter HTML-Block
+Custom Role,benutzerdefinierte Rolle
+Customer Group,Kundengruppe
 Customer,Kunde
+Customize Form,Formular anpassen
+Customs Tariff Number,Zolltarifnummer
+Daily Work Summary Group,Tägliche Arbeitszusammenfassungsgruppe
+Daily Work Summary,Tägliche Arbeitszusammenfassung
+Dashboard Chart Source,Dashboard-Diagrammquelle
+Dashboard Chart,Dashboard-Diagramm
+Dashboard Settings,Dashboard-Einstellungen
+Dashboard,Dashboard
+Data Export,Datenexport
+Data Import Log,Datenimportprotokoll
+Data Import,Datenimport
+DATEV Settings,DATEV-Einstellungen
+DATEV Unternehmen Online Settings,DATEV Unternehmen Online-Einstellungen
 Debit,Soll
 Deferred Accounting,Rechnungsabgrenzung
+Deleted Document,gelöschtes Dokument
 Delivery Note,Lieferschein
+Delivery Schedule Item,Delivery Schedule Item
+Delivery Settings,Liefereinstellungen
+Delivery Trip,Auslieferungsfahrt
+Department,Abteilung
 Deposit,Einzahlung
 Designation,Position
+Desktop Icon,Desktopsymbol
+Discussion Reply,Unterhaltungsantwort
+Discussion Topic,Unterhaltungsthema
 Dispatch Address,Absendeadresse
 DocField,DocField
 DocPerm,DocPerm
+DocShare,DocShare
+DocType Layout,DocType-Layout
 DocType,DocType
+Document Follow,Dokument folgen
+Document Naming Rule,Dokumentbenennungsregel
+Document Naming Settings,Dokumentenbenennungseinstellungen
+Document Share Key,Dokumentfreigabeschlüssel
+Domain Settings,Domäneneinstellungen
+Domain,Domain
+Downtime Entry,Ausfallzeiteintrag
 Dr,S
 Draft,Entwurf
+Driver,Fahrer/-in
+Dunning Type,Mahnart
+Dunning,Mahnung
+E Invoice Import,E-Rechnungs-Import
+E Invoice Settings,E-Rechnungs-Einstellungen
 Earned Leaves,Verdiente Urlaubstage
+EBICS Request,EBICS-Anfrage
+EBICS User,EBICS-Benutzer
+Email Account,E-Mail-Konto
+Email Campaign,E-Mail-Kampagne
+Email Digest,E-Mail-Bericht
+Email Domain,E-Mail-Domain
+Email Flag Queue,E-Mail-Flag-Warteschlange
+Email Group Member,E-Mail-Gruppen-Mitglied
+Email Group,E-Mail-Gruppe
+Email Queue,E-Mail-Queue
+Email Rule,E-Mail-Regel
+Email Template,E-Mail-Vorlage
+Email Unsubscribe,E-Mail abbestellen
+Employee Advance,Mitarbeitervorschuss
+Employee Attendance Tool,MItarbeiter-Anwesenheits-Werkzeug
+Employee Benefit Application,Employee Benefit Anwendung
+Employee Benefit Claim,Leistungsanspruch des Arbeitnehmers
+Employee Checkin,Mitarbeiter einchecken
+Employee Feedback Criteria,Kriterien für Mitarbeiter-Feedback
+Employee Grade,Mitarbeiterklasse
+Employee Grievance,Mitarbeiterbeschwerde
+Employee Group,Mitarbeitergruppe
+Employee Health Insurance,Krankenversicherung für Arbeitnehmer
+Employee Incentive,Mitarbeiteranreiz
+Employee Onboarding Template,Mitarbeiter Onboarding-Vorlage
+Employee Onboarding,Mitarbeiter Onboarding
+Employee Other Income,Sonstiges Einkommen des Mitarbeiters
+Employee Performance Feedback,Mitarbeiter Leistungsfeedback
+Employee Promotion,Mitarbeiterförderung
+Employee Referral,Mitarbeiterempfehlung
+Employee Separation Template,Mitarbeiter Trennvorlage
+Employee Separation,Mitarbeitertrennung
+Employee Skill Map,Mitarbeiter-Skill-Map
+Employee Tax Exemption Category,Steuerbefreiungskategorie für Arbeitnehmer
+Employee Tax Exemption Declaration,Steuererklärung für Arbeitnehmer
+Employee Tax Exemption Proof Submission,Employee Tax Exemption Proof Submission
+Employee Tax Exemption Sub Category,Mitarbeitersteuerbefreiung Unterkategorie
+Employee Transfer,Mitarbeiterübernahme
+Employee,Mitarbeiter
+Employment Type,Art der Beschäftigung
 Encashable Leaves,auszahlbare Abwesenheiten
+ERPNext Germany Settings,ERPNext Germany Settings
+Error Log,Fehlerprotokoll
+Event,Ereignis
+Exchange Rate Revaluation,Wechselkurs-Neubewertung
 Exit Interview,Austrittsgespräch
 Exit Questionnaire,Austrittsfragebogen
 Expected,Soll
 Expense Approver,Spesengenehmiger
+Expense Claim Type,Art der Auslagenabrechnung
 Expense Claim,Spesenabrechnung
 Expense,Ausgabe
+File,Datei
+Finance Book,Finanzbuch
 Finished Good,Fertigerzeugnis
+Fiscal Year,Geschäftsjahr
+Fixed Asset,Anlagevermögen
 Fleet,Fuhrpark
+Form Tour,Formular-Tour
+Freelancer Rate,Freelancer Rate
+Freelancer Time,Freelancer Time
+Full and Final Statement,Schlussabrechnung
+Funding Commitment,Funding Commitment
+Gender,Geschlecht
 General Ledger,Hauptbuch
+Geolocation Settings,Geolokalisierungseinstellungen
+GL Entry,Buchung zum Hauptbuch
 GL Entry,Hauptbucheintrag
+Global Defaults,Allgemeine Voreinstellungen
+Global Search Settings,Globale Sucheinstellungen
+Goal,Ziel
+Google Calendar,Google-Kalender
+Google Contacts,Google Kontakte
+Google Settings,Google-Einstellungen
 Grand Total,Gesamtsumme
+Gratuity Rule,Gratifikationsregel
 Gratuity,Gratifikation
+Grievance Type,Beschwerdetyp
 Grievance,Beschwerde
 Guarantee,Garantie
 Heads,Konten
+Help Article,Hilfeartikel
+Help Category,Hilfekategorie
+Holiday List,Feiertagsliste
 Holiday List,Liste der arbeitsfreien Tage
 Holiday,Arbeitsfreier Tag
+HR Settings,Einstellungen zum Modul Personalwesen
+HTML Test,HTML Test
+Identification Document Type,Ausweistyp
 If checked,Falls aktiviert
 If disabled,Falls deaktiviert
 If enabled,Falls aktiviert
 If unchecked,Falls deaktiviert
+Import Supplier Invoice,Lieferantenrechnung importieren
+Income Tax Slab,Einkommensteuerplatte
 Income,Einnahme
+Incoming Call Settings,Einstellungen für eingehende Anrufe
+Incoterm,Incoterm
+Industry Type,Wirtschaftsbranche
+Installation Note,Installationshinweis
+Installed Applications,Installierte Anwendungen
+Integration Request,Integration anfordern
+Interest,Zinsen
+Interview Feedback,Feedback zum Bewerbungsgespräch
+Interview Round,Bewerbungsgesprächsrunde
+Interview Type,Bewerbungsgesprächstyp
+Interview,Bewerbungsgespräch
 Inventory Dimension,Lagerbestandsdimension
+Invoice Discounting,Rechnungsrabatt
+Issue Priority,Ausgabepriorität
+Issue Type,Fehlertyp
+Issue,Anfrage
+Item Alternative,Artikel Alternative
+Item Attribute,Artikelattribut
+Item Group,Artikelgruppe
+Item Lead Time,Item Lead Time
+Item Manufacturer,Artikel Hersteller
+Item Price,Artikelpreis
+Item Tax Template,Artikelsteuervorlage
+Item Variant Settings,Einstellungen zur Artikelvariante
 Item,Artikel
+Jira Site,Jira Site
+Job Applicant Source,Bewerber-Quelle
 Job Applicant,Bewerber
+Job Card,Jobkarte
+Job Offer Term Template,Job Offer Term Template
+Job Offer,Jobangebot
 Job Opening,Stellenausschreibung
 Job Requisition,Stellengesuch
+Journal Entry Template,Buchungssatz-Vorlage
 Journal Entry,Journalbuchung
+Journal Entry,Journaleintrag
+Kanban Board,Kanban-Tafel
+KRA,KRA
+Landed Cost Voucher,Beleg über Einstandskosten
+Language,Sprache
+LDAP Settings,LDAP-Einstellungen
 Lead,Interessent
+Leave Adjustment,Leave Adjustment
 Leave Allocation,Abwesenheitskontingent
 Leave Application,Abwesenheitsantrag
+Leave Application,Urlaubsantrag
+Leave Block List,Urlaubssperrenliste
+Leave Control Panel,Urlaubsverwaltung
 Leave Encashment,Auszahlung von Urlaub
+Leave Encashment,Einlösung gewähren
+Leave Ledger Entry,Ledger-Eintrag verlassen
 Leave Period,Abwesenheitsperiode
+Leave Period,Urlaubszeitraum
+Leave Policy Assignment,Abwesenheitsrichtlinien Zuordnung
 Leave Policy,Abwesenheitsrichtlinie
+Leave Policy,Urlaubsrichtlinie
 Leave Type,Abwesenheitsart
+Leave Type,Abwesenheitstyp
 Leave,Abwesenheit
 Leaves,Abwesenheiten
+Ledger Health Monitor,Kontenintegritätsmonitor
+Ledger Health,Kontenintegrität
+Ledger Merge,Kontenzusammenführung
+Letter Head,Briefkopf
+List Filter,Listenfilter
+List View Settings,Einstellungen für die Listenansicht
 Loan Repayment,Darlehensrückzahlung
+Location,Ort
+Log Settings,Protokolleinstellungen
 Loss,Verlust
+Lower Deduction Certificate,Unteres Abzugszertifikat
+Loyalty Point Entry,Loyalitätspunkteintrag
+Loyalty Program,Treueprogramm
+Maintenance Schedule,Wartungsplan
+Maintenance Visit,Wartungsbesuch
 Manual,Manuell
+Manufacturer,Hersteller
+Manufacturing Settings,Fertigungseinstellungen
+Market Segment,Marktsegment
+Master Production Schedule,Master Production Schedule
 Masters,Stammdaten
+Material Request,Materialanfrage
+Milestone Tracker,Meilenstein-Tracker
+Milestone,Ecktermin
 Mode of Payment,Zahlungsweise
+Module Def,Modul-Def
+Module Onboarding,Modul-Onboarding
+Module Profile, Modulprofil
+Monthly Distribution,Monatsbezogene Verteilung
 Naming Series,Nummernkreis
+Navbar Settings,Navbar-Einstellungen
 Net Total,Nettosumme
+Network Printer Settings,Netzwerkdrucker-Einstellungen
+Non Conformance,Nichtkonformität
+Note,Anmerkung
+Notification Log,Benachrichtigungsprotokoll
+Notification Settings,Benachrichtigungseinstellungen
+Notification,Benachrichtigung
+Number Card,Zahlenkarte
+OAuth Authorization Code,OAuth-Autorisierungscode
+OAuth Bearer Token,OAuth Bearer Token
+OAuth Client,OAuth-Client
+OAuth Provider Settings,OAuth-Provider-Einstellungen
+OAuth Settings,OAuth-Einstellungen
+Offer Term,Angebotsfrist
+Onboarding Step,Onboarding-Schritt
+Opening Invoice Creation Tool,Offene Rechnungen übertragen
+Operating Site,Operating Site
+Operation,Arbeitsgang
+Opportunity Lost Reason,Grund für verlorene Chance
+Opportunity Type,Chance-Typ
 Opportunity,Chance
+Overtime Slip,Overtime Slip
+Overtime Type,Overtime Type
+Package Import,Paket-Import
+Package Release,Paket-Release
+Package,Paket
+Packing Slip,Packzettel
+Page,Seite
+Party Link,Party Link
+Party Specific Item,Parteispezifischer Artikel
+Party Type,Parteityp
+Patch Log,Korrektur-Protokoll
 Payable Account,Verbindlichkeitskonto
 Payment Entry,Zahlung
+Payment Gateway Account,Payment Gateway Konto
+Payment Ledger Entry,Zahlungsbucheintrag
+Payment Order,Zahlungsauftrag
+Payment Reconciliation,Zahlungsabgleich
+Payment Request,Zahlungsaufforderung
+Payment Term,Zahlungsbedingung
+Payment Terms Template,Vorlage Zahlungsbedingungen
 Payment Type,Zahlungsart
 Payment,Zahlung
+Payroll Entry,Personalabrechnung
+Payroll Period,Abrechnungsperiode
+Payroll Settings,Einstellungen zur Gehaltsabrechnung
 Payroll,Lohn- und Gehaltsabrechnung
+PDF on Submit Settings,PDF-on-Submit-Einstellungen
+Pegged Currencies,Pegged Currencies
 Performance,Leistung
+Period Closing Voucher,Periodenabschlussbeleg
+Permission Inspector,Berechtigungsinspektor
+Permission Log,Berechtigungsprotokoll
+Personal Data Deletion Request,Löschanfrage für persönliche Daten
+Personal Data Download Request,Download-Anfrage für personenbezogene Daten
 Pick List,Pickliste
+Plaid Settings,Plaid-Einstellungen
+Plant Floor,Werkshalle
+Portal Settings,Portaleinstellungen
+POS Closing Entry,POS-Abschlussbuchung
+POS Invoice Merge Log,POS-Rechnungszusammenführungsprotokoll
+POS Invoice,POS-Rechnung
+POS Opening Entry,POS-Eröffnungseintrag
+POS Profile,Verkaufsstellen-Profil
+POS Settings,POS-Einstellungen
+Prepared Report,Vorbereiteter Bericht
 Price List Rate,Listenpreis
+Price List,Preisliste
+Pricing Rule,Preisregel
+Print Format Field Template,Druckformat Feldvorlage
 Print Format,Druckformat
+Print Heading,Druck-Kopfzeile
+Print Settings,Druckeinstellungen
+Print Style,Druckstil
 Process Deferred Accounting,Rechnungsabgrenzung verarbeiten
+Process Payment Reconciliation Log,Process Payment Reconciliation Log
+Process Payment Reconciliation,Zahlungsabgleich verarbeiten
+Process Statement Of Accounts,Kontoauszug verarbeiten
+Process Subscription,Abonnement verarbeiten
+Product Bundle,Produkt-Bundle
+Production Plan,Produktionsplan
 Profit,Gewinn
+Project Note,Project Note
+Project Template,Projektvorlage
+Project Type,Projekttyp
+Project Update,Projektaktualisierung
+Project,Projekt
+Projects Settings,Projekteinstellungen
+Promotional Scheme,Werbemaßnahme
+Property Setter,Einstellprogramm für Eigenschaften
 Prospect,Potenzieller Kunde
 Purchase Invoice,Eingangsrechnung
 Purchase Order Item,Bestellposition
 Purchase Order,Bestellung
+Purchase Order,Lieferantenauftrag
 Purchase Receipt,Eingangsbeleg
+Purchase Taxes and Charges Template,Vorlage für Einkaufssteuern und -abgaben
+Purpose of Travel,Zweck der Reise
+Push Notification Settings,Einstellungen für Push-Benachrichtigungen
 Putaway Rule,Einlagerungsregel
+PWA Notification,PWA-Benachrichtigung
 Qty,Menge
+Quality Action,Qualitätsmaßnahme
+Quality Feedback Template,Qualitäts-Feedback-Vorlage
+Quality Feedback,Qualitätsfeedback
+Quality Goal,Qualitätsziel
+Quality Inspection Parameter Group,Qualitätsprüfungsparametergruppe
+Quality Inspection Parameter,Qualitätsprüfparameter
+Quality Inspection Template,Qualitätsinspektionsvorlage
+Quality Inspection,Qualitätsprüfung
+Quality Meeting,Qualitätstreffen
+Quality Procedure,Qualitätsverfahren
+Quality Review,Qualitätsüberprüfung
 Quantity,Menge
+Quick Stock Balance,Schneller Lagerbestand
 Quotation Item,Angebotsposition
+Quotation Lost Reason,Grund für verlorenes Angebot
 Quotation,Angebot
 Rate,Einzelpreis
-Rejected Warehouse,Ausschusslager
+Recorder,Rekorder
+Reference Project,Reference Project
 Rejected Warehouse,Ausschusslager
 Relieving Date,Austrittsdatum
+Religious Denomination,Konfession
+Reminder,Erinnerung
+Rename Tool,Werkzeug zum Umbenennen
 Report Builder,Berichterstellungswerkzeug
 Report,Bericht
+Repost Accounting Ledger Settings,Repost Accounting Ledger Settings
+Repost Accounting Ledger,Repost Accounting Ledger
+Repost Item Valuation,Repost Item Valuation
+Repost Payment Ledger,Repost Payment Ledger
+Request for Quotation,Angebotsanfrage
+Resource,Ressource
+Retention Bonus,Aufbewahrungsbonus
 Revenue,Ertrag
+Role Permission for Page and Report,Rollengenehmigung Seite und Bericht
+Role Profile,Rollenprofil
+Role Replication,Rollenreplikation
+Role,Rolle
+Route History,Verlauf der Route
+Routing,Ablaufplanung
+RQ Job,RQ Job
+RQ Worker,RQ Worker
+SABB,S.u.Cb.
+Salary Component,Gehaltskomponente
 Salary Slip,Gehaltsabrechnung
+Salary Structure Assignment,Zuordnung der Gehaltsstruktur
+Salary Structure,Gehaltsstruktur
+Salary Withholding,Gehaltseinbehalt
+Sales Forecast,Sales Forecast
 Sales Invoice Item,Ausgangsrechnungsposition
 Sales Invoice,Ausgangsrechnung
 Sales Order Item,Auftragsposition
 Sales Order,Auftrag
+Sales Partner Type,Vertriebspartnertyp
+Sales Partner,Vertriebspartner
+Sales Person,Verkäufer
+Sales Stage,Verkaufsphase
+Sales Taxes and Charges Template,Vorlage für Verkaufssteuern und -abgaben
+Salutation,Anrede
+Scheduled Job Log,Protokoll geplanter Jobs
+Scheduled Job Type,Geplanter Auftragstyp
+Scheduler Event,Scheduler-Ereignis
+Selling Settings,Vertriebseinstellungen
+SEPA Payment Order,SEPA-Zahlungsauftrag
 Serial and Batch Bundle,Serien- und Chargenbündel
 Serial No,Seriennummer
 Serial,Seriennummer
 Series,Nummernkreis
+Server Script,Serverskript
+Service Level Agreement,Service Level Agreement
+Session Default Settings,Sitzungsstandardeinstellungen
+Share Transfer,Weitergabe übertragen
+Share Type,Art der Freigabe
+Shareholder,Aktionär
+Shift Assignment Tool,Tool zur Schichtzuweisung
+Shift Assignment,Schicht-Zuordnung
+Shift Location,Shift Location
+Shift Request,Schichtanforderung
+Shift Schedule Assignment,Shift Schedule Assignment
+Shift Schedule,Shift Schedule
+Shift Type,Schicht-Art
+Shipment Parcel Template,Versandpaketvorlage
+Shipment,Sendung
+Shipping Rule,Versandregel
+Sipgate Settings,Sipgate Settings
+Skill,Fertigkeit
+Slack Webhook URL,Slack Webhook URL
+SMS Center,SMS-Center
+SMS Log,SMS-Protokoll
+SMS Settings,SMS-Einstellungen
+Social Login Key,Social Login Key
 Source Warehouse,Quelllager
+South Africa VAT Settings,Südafrika Mehrwertsteuer-Einstellungen
+Staffing Plan,Personalplanung
+Stock Closing Balance,Stock Closing Balance
+Stock Closing Entry,Stock Closing Entry
+Stock Entry Type,Art der Lagerbuchung
 Stock Entry,Lagerbewegung
+Stock Entry,Lagerbuchung
+Stock Ledger Entry,Buchung im Lagerbuch
 Stock Ledger Entry,Lagerbuchung
 Stock Ledger,Lagerbuch
+Stock Reconciliation,Bestandsabgleich
+Stock Reposting Settings,Stock Reposting Settings
+Stock Reservation Entry,Bestandsreservierungseintrag
+Stock Settings,Lager-Einstellungen
 Stock UOM,Lager-ME
 Sub-assembly,Unterbaugruppe
+Subcontracting BOM,Stückliste für Untervergabe
+Subcontracting Order,Unterauftrag
+Subcontracting Receipt,Unterauftragsbeleg
+Submission Queue,Buchungs-Warteschlange
 Submission,Buchung
 submit,buchen
 submitted,gebucht
+Subscription Plan,Abonnementplan
+Subscription Settings,Abonnementeinstellungen
+Subscription,Abonnement
+Success Action,Erfolg Aktion
+Supplier Group,Lieferantengruppe
 Supplier Quotation,Lieferantenangebot
+Supplier Scorecard Criteria,Lieferantenbewertung Kriterien
+Supplier Scorecard Period,Lieferantenbewertung Zeitraum
+Supplier Scorecard Standing,Supplier Scorecard Standing
+Supplier Scorecard Variable,Supplier Scorecard Variable
+Supplier Scorecard,Lieferantenbewertung
 Supplier,Lieferant
+Support Settings,Support-Einstellungen
+System Console,Systemkonsole
+System Health Report,Bericht zur Systemgesundheit
+System Settings,Systemverwaltung
 Tab,Registerkarte
+Tag Link,Schlagwortverknüpfung
+Tag,Schlagwort
 Target Warehouse,Ziellager
+Task Type,Vorgangstyp
+Task,Vorgang
+Tax Category,Steuerkategorie
+Tax Rule,Steuerregel
+Tax Withholding Category,Steuereinbehalt Kategorie
 Tax Withholding,Quellensteuer
+Telephony Call Type,Telefonie Anrufart
+Terms and Conditions,Allgemeine Geschäftsbedingungen
+Territory,Gebiet
+Test Anfrage,Test Anfrage
 Timesheet,Zeiterfassung
+ToDo,Aufgabe
+Token Cache,Token Cache
 Total,Summe
+Training Event,Schulungsveranstaltung
+Training Feedback,Training Feedback
+Training Program,Trainingsprogramm
+Training Result,Trainingsergebnis
+Transaction Deletion Record,Transaction Deletion Record
+Translation,Übersetzung
+Travel Request,Reiseantrag
+UAE VAT Settings,VAE VAT Einstellungen
+Unhandled Email,Unbearbeitete E-Mail
+Unreconcile Payment,Unreconcile Payment
+UOM Category,Maßeinheit-Kategorie
+UOM Conversion Factor,Maßeinheit-Umrechnungsfaktor
+UOM,Einheit
 UOM,ME
+Upload Attendance,Anwesenheit hochladen
+User Group,Benutzergruppe
+User Invitation,Benutzer-Einladung
+User Permission,Benutzerberechtigung
+User Type,Benutzertyp
 User,Benutzer
+User,Nutzer
+UTM Campaign,UTM-Kampagne
+UTM Medium,UTM-Medium
+UTM Source,UTM-Quelle
+VAT ID Check,USt-IdNr Prüfung
+Vehicle Log,Fahrzeug Log
+Vehicle Service Item,Fahrzeug-Serviceartikel
+Vehicle,Fahrzeug
+Version,Version
+Video Settings,Video-Einstellungen
+Video,Video
+View Log,Protokoll anzeigen
+Voice Call Settings,Sprachanruf-Einstellungen
 Voucher,Beleg
+Warehouse Type,Lagertyp
 Warehouse,Lager
+Warranty Claim,Garantieanspruch
 Warranty,Gewährleistung
+Web Form,Web-Formular
+Web Page View,Webseitenansicht
+Web Page,Webseite
+Web Template,Webvorlage
+Webhook Request Log,Webhook-Anfrage-Protokoll
+Webhook,Webhook
+Website Route Meta,Meta-Tags für Website-Pfad
+Website Script,Webseiten-Skript
+Website Settings,Webseiten-Einstellungen
+Website Sidebar,Webseite Sidebar
+Website Slideshow,Webseiten-Diashow
+Website Theme,Webseiten-Thema
+Work Order,Arbeitsauftrag
+Workflow Action Master,Stammdaten zu Workflow-Aktionen
+Workflow Action,Workflow-Aktion
+Workflow State,Workflow-Status
+Workflow Transition Tasks,Workflow-Übergangsaufgaben
+Workflow,Workflow
+Working Time,Arbeitszeit
+Workspace Settings,Arbeitsbereich Einstellungen
 Workspace,Arbeitsbereich
+Workstation Operating Component,Workstation Operating Component
+Workstation Type,Arbeitsplatztyp
 Workstation,Arbeitsplatz
-SABB,S.u.Cb.
