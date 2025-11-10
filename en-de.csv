@@ -250,7 +250,6 @@ Funding Commitment,Funding Commitment
 Gender,Geschlecht
 General Ledger,Hauptbuch
 Geolocation Settings,Geolokalisierungseinstellungen
-GL Entry,Buchung zum Hauptbuch
 GL Entry,Hauptbucheintrag
 Global Defaults,Allgemeine Voreinstellungen
 Global Search Settings,Globale Sucheinstellungen
@@ -267,7 +266,6 @@ Guarantee,Garantie
 Heads,Konten
 Help Article,Hilfeartikel
 Help Category,Hilfekategorie
-Holiday List,Feiertagsliste
 Holiday List,Liste der arbeitsfreien Tage
 Holiday,Arbeitsfreier Tag
 HR Settings,Einstellungen zum Modul Personalwesen
@@ -314,7 +312,6 @@ Job Offer,Jobangebot
 Job Opening,Stellenausschreibung
 Job Requisition,Stellengesuch
 Journal Entry Template,Buchungssatz-Vorlage
-Journal Entry,Journalbuchung
 Journal Entry,Journaleintrag
 Kanban Board,Kanban-Tafel
 KRA,KRA
@@ -325,19 +322,14 @@ Lead,Interessent
 Leave Adjustment,Leave Adjustment
 Leave Allocation,Abwesenheitskontingent
 Leave Application,Abwesenheitsantrag
-Leave Application,Urlaubsantrag
 Leave Block List,Urlaubssperrenliste
 Leave Control Panel,Urlaubsverwaltung
 Leave Encashment,Auszahlung von Urlaub
-Leave Encashment,Einlösung gewähren
 Leave Ledger Entry,Ledger-Eintrag verlassen
 Leave Period,Abwesenheitsperiode
-Leave Period,Urlaubszeitraum
 Leave Policy Assignment,Abwesenheitsrichtlinien Zuordnung
 Leave Policy,Abwesenheitsrichtlinie
-Leave Policy,Urlaubsrichtlinie
 Leave Type,Abwesenheitsart
-Leave Type,Abwesenheitstyp
 Leave,Abwesenheit
 Leaves,Abwesenheiten
 Ledger Health Monitor,Kontenintegritätsmonitor
@@ -367,7 +359,7 @@ Milestone,Ecktermin
 Mode of Payment,Zahlungsweise
 Module Def,Modul-Def
 Module Onboarding,Modul-Onboarding
-Module Profile, Modulprofil
+Module Profile,Modulprofil
 Monthly Distribution,Monatsbezogene Verteilung
 Naming Series,Nummernkreis
 Navbar Settings,Navbar-Einstellungen
@@ -464,7 +456,6 @@ Property Setter,Einstellprogramm für Eigenschaften
 Prospect,Potenzieller Kunde
 Purchase Invoice,Eingangsrechnung
 Purchase Order Item,Bestellposition
-Purchase Order,Bestellung
 Purchase Order,Lieferantenauftrag
 Purchase Receipt,Eingangsbeleg
 Purchase Taxes and Charges Template,Vorlage für Einkaufssteuern und -abgaben
@@ -570,10 +561,8 @@ Staffing Plan,Personalplanung
 Stock Closing Balance,Stock Closing Balance
 Stock Closing Entry,Stock Closing Entry
 Stock Entry Type,Art der Lagerbuchung
-Stock Entry,Lagerbewegung
 Stock Entry,Lagerbuchung
-Stock Ledger Entry,Buchung im Lagerbuch
-Stock Ledger Entry,Lagerbuchung
+Stock Ledger Entry,Lagerbucheintrag
 Stock Ledger,Lagerbuch
 Stock Reconciliation,Bestandsabgleich
 Stock Reposting Settings,Stock Reposting Settings
@@ -634,7 +623,6 @@ Unhandled Email,Unbearbeitete E-Mail
 Unreconcile Payment,Unreconcile Payment
 UOM Category,Maßeinheit-Kategorie
 UOM Conversion Factor,Maßeinheit-Umrechnungsfaktor
-UOM,Einheit
 UOM,ME
 Upload Attendance,Anwesenheit hochladen
 User Group,Benutzergruppe
@@ -642,7 +630,6 @@ User Invitation,Benutzer-Einladung
 User Permission,Benutzerberechtigung
 User Type,Benutzertyp
 User,Benutzer
-User,Nutzer
 UTM Campaign,UTM-Kampagne
 UTM Medium,UTM-Medium
 UTM Source,UTM-Quelle
